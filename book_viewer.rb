@@ -41,7 +41,7 @@ before do
 end
 
 get "/" do
-  @title = "The Adventures of Sherlock Holmes"
+  @title = "The Adventures of Sherlock Holmes - ebook"
   erb :home
 end
 
